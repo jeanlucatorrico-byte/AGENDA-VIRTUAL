@@ -1,15 +1,18 @@
 {
-    "name": "Agenda Virtual U.E. Nueva Canaan",
-    "short_name": "Agenda UE NC",
-    "start_url": "index.html",
-    "scope": "./",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#1D8F4A",
-    "icons": [{
-        "src": "./icono.png",
-        "sizes": "512x512",
-        "type": "image/png"
-    }]
+  "name": "Agenda Virtual U.E. Nueva Canaán",
+  "short_name": "Agenda UE NC",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1D8F4A",
+  "icons": [
+    {
+      "src": "./icono.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
+
 
